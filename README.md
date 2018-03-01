@@ -1,6 +1,3 @@
-# Workshop_flask
-Workshop flask du 19/02/2018
+# Workshop_flask 19/02/18
 
-Lancer tabledef.py
-Lancer dummy_db.py
-Lancer workshop.py
+This workshop was made to help the students understanding the python framework Flask and it's database manager, sqlalchemy
